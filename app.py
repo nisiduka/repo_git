@@ -13,7 +13,7 @@ def create_prompt(user_input):
         template="""
         あなたはブロガー
         海外サイトも検索して
-        1000文字以上で日本語出力
+        1000文字以上で日本語出力する
         ###
         テーマ:{theme}
         """
